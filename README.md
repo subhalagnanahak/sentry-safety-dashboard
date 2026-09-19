@@ -1,5 +1,8 @@
 # SENTRY — Factory Safety Monitoring Dashboard
 
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentry-safety-dashboard-aujf8xtn6sn3bghazukser.streamlit.app/)
+
 AI-based real-time factory safety monitoring system — PPE compliance detection, fire/smoke/hazard alerts, and environmental pattern analysis, built for Hackathon Problem Statement PS6.
 
 ## 🚀 Live Demo
